@@ -150,14 +150,14 @@ LENS/
 ```
 ## Run locally
 
-```md
+
 Install the dependencies:
-```
+
 ```bash
 pip install -r requirements.txt
 ```
 
-## Then run:
+Then run:
 
 ```bash
 streamlit run src/app.py
@@ -166,7 +166,7 @@ streamlit run src/app.py
 ## Data privacy and responsible use
 
 The included demo dataset is synthetic and contains no real customer data.
-> **Do not upload personal, confidential, proprietary, regulated, or otherwise sensitive data to the public demo deployment.
+> **Do not upload personal, confidential, proprietary, regulated, or otherwise sensitive data to the public demo deployment.**
 
 Examples include:
 
