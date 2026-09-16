@@ -150,17 +150,23 @@ LENS/
 ```
 ## Run locally
 
+```md
 Install the dependencies:
+```
+```bash
 pip install -r requirements.txt
+```
 
 ## Then run:
 
+```bash
 streamlit run src/app.py
+```
 
 ## Data privacy and responsible use
 
 The included demo dataset is synthetic and contains no real customer data.
-Do not upload personal, confidential, proprietary, regulated, or otherwise sensitive data to the public demo deployment.
+> **Do not upload personal, confidential, proprietary, regulated, or otherwise sensitive data to the public demo deployment.
 
 Examples include:
 
@@ -176,21 +182,24 @@ For sensitive or proprietary datasets, LENS should be run in an appropriately se
 
 ## Status
 
-MVP v1
+**MVP v1**
 
 The current release focuses on:
 
-Event data → semantic mapping → deterministic product metrics → automatic findings
+> **Event data → semantic mapping → deterministic product metrics → automatic findings**
 
 Future versions will expand the supported data models and introduce the Ask LENS investigation layer.
 
-Author
-Sena Eser
+## Author
 
-Usage rights
+**Sena Eser**
+
+---
+
+## Usage rights
 
 © 2026 Sena Eser. All rights reserved.
 
-This repository is publicly visible for portfolio, review and evaluation purposes.
+This repository is publicly visible for **portfolio, review and evaluation purposes**.
 
 Commercial use, resale, redistribution, or incorporation of this project or its source code into a commercial product is not permitted without prior written permission from the author.
