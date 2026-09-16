@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets / environment variables
+.env
+.env.*
+.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+.spyproject/
+.DS_Store
+Thumbs.db
+
+# Logs / cache
+*.log
+.cache/
+.pytest_cache/
+
+# Local large / generated datasets
+data/events.csv
+data/users.csv
+data/users_internal_ground_truth.csv
+data/monthly_saas_metrics.csv
+
+# Keep the public demo dataset
+!data/lens_demo_events.csv
