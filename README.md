@@ -4,6 +4,10 @@
 
 Built as a portfolio MVP for product, growth, and data analytics workflows.
 
+### Live demo
+
+**Try LENS:** [lens-analytics.streamlit.app](https://lens-analytics.streamlit.app/)
+
 ---
 
 ## What LENS does
